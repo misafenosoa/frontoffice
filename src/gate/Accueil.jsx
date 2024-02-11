@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/exhaustive-deps */
 import axios from "axios";
 import AccueilBody from "../accueil/Accueil";
 import Header, { HeaderBottom } from "../components/header/Header";
